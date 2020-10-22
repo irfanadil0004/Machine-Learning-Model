@@ -14,7 +14,8 @@
 ----
 
 
-A Machine Learning Model Which Can Differentiate Between
+<P ALIGN=CENTER>A Machine Learning Model Which Can Differentiate Between</P>
+
 - A Face
 - A Huamn Body
 - A Tree
