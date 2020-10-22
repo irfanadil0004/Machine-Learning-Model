@@ -23,7 +23,6 @@ A Machine Learning Model Which Can Differentiate Between
 <b><u> <h2 align="center"> A ScreenShot Of A Model </h2></u> </b>
 </p>
 
-
 The Image will procces and match the above categories a sample image, images will be processed under the machine and the image which will be perfectly match will show their its case in percentage with accuracy. 
 
 ![Model Working](https://i.ibb.co/JzfLwj1/Screenshot-345.png)
@@ -40,6 +39,7 @@ A simple connection shown between all categories and machine this connection is 
   <b> <h2 align="center">Live Demo Of The Model </h2> </b>
    </p>
 
+
 The Live demo on a human potrait to identify if the ML is working fine-
 
 ![Live Demo](https://i.ibb.co/y8b6Qyf/Screenshot-344.png)
@@ -47,13 +47,15 @@ The Live demo on a human potrait to identify if the ML is working fine-
 <p align ="center">
  <b> <h3 align="center"> As we can see the model is working fine ✌️ </h2> </b>
 
-(Feel free to commit the new images for better accurecy)🤝
+(Feel free to commit the for better accurecy)🤝
  </b>
  </p>
 
 
 <!-- Actual text -->
-## <b> You can find me on [![Twitter][1.2]][1] or [![LinkedIn][2.2]][2].
+
+### You can find me on [![Twitter][1.2]][1] or [![LinkedIn][2.2]][2].
+
 
 <!-- Icons -->
 
