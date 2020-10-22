@@ -52,6 +52,8 @@ A simple connection shown between all categories and machine this connection is 
 Now for the live demo we've to put humans into the test.Is'nt it? So i am opening my webcamera and letting the program to find the best match and identify what is showing in frount of the camera.
 The Live demo on a human potrait to identify if the ML-
 
+![Live Demo](https://i.ibb.co/54b0pn7/Screenshot-344.png)
+
 <p align ="center">
  <b> <h3 align="center"> As we can see the model is working fine ✌️ </h2> </b>
 
