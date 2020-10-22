@@ -9,12 +9,12 @@ A Machine Learning Model Which Can Differentiate Between
 - Other 
 
 # A ScreenShot Of A Model
-The Image will procces and match the above categories a simple image shows the process is given below-
+The Image will procces and match the above categories a sample image, images will be processed under the machine and the image which will be perfectly match will show their its case in percentage with accuracy. 
 
 ![Model Working](https://i.ibb.co/JzfLwj1/Screenshot-345.png)
 
 # A Connection Between Categories-
-A simple connection shown between all categories and machine-
+A simple connection shown between all categories and machine this connection is required for connecting the different categories in one and processing the image as a file file will be treaters as Binary and the sample Images after converting in binary will mach up  -
 
 ![The Connection ](https://i.ibb.co/hKVNLW3/Screenshot-346.png)
 
