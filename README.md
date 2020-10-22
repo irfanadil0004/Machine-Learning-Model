@@ -16,6 +16,9 @@
 
 <P ALIGN=CENTER>A Machine Learning Model Which Can Differentiate Between</P>
 
+
+<P ALIGN=CENTER>
+
 - A Face
 - A Huamn Body
 - A Tree
@@ -46,9 +49,8 @@ A simple connection shown between all categories and machine this connection is 
    </p>
 
 
-The Live demo on a human potrait to identify if the ML is working fine-
-
-![Live Demo](https://i.ibb.co/y8b6Qyf/Screenshot-344.png)
+Now for the live demo we've to put humans into the test.Is'nt it? So i am opening my webcamera and letting the program to find the best match and identify what is showing in frount of the camera.
+The Live demo on a human potrait to identify if the ML-
 
 <p align ="center">
  <b> <h3 align="center"> As we can see the model is working fine ✌️ </h2> </b>
