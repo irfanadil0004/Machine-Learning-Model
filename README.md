@@ -24,11 +24,11 @@ The Live demo on a human potrait to identify if the ML is working fine-
 
 ![Live Demo](https://i.ibb.co/y8b6Qyf/Screenshot-344.png)
 
-As we can see the model is working fine!✌️
-
+### As we can see the model is working fine ✌️
+(Feel free to commit the new images for better accurecy)🤝
 
 <!-- Actual text -->
-<b> You can find me on [![Twitter][1.2]][1] or [![LinkedIn][2.2]][2].
+## <b> You can find me on [![Twitter][1.2]][1] or [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
