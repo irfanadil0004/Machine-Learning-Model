@@ -25,9 +25,9 @@ The Live demo on a human potrait to identify if the ML is working fine-
 
 As we can see the model is working fine!✌️
 
-<!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1] or [![LinkedIn][2.2]][2].
+<!-- Actual text -->
+<b> You can find me on [![Twitter][1.2]][1] or [![LinkedIn][2.2]][2]. 
 
 <!-- Icons -->
 
@@ -38,3 +38,4 @@ You can find me on [![Twitter][1.2]][1] or [![LinkedIn][2.2]][2].
 
 [1]: https://twitter.com/its_irfan___
 [2]: https://www.linkedin.com/in/irfan-aadil-402324161
+
