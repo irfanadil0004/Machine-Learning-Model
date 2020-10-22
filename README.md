@@ -33,10 +33,10 @@ As we can see the model is working fine!✌️
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[2.2]: http://www.simpleimageresizer.com/_uploads/photos/e6bda3d4/linkedin-sign_11_3.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/its_irfan___
-[2]: https://www.linkedin.com/in/irfan-aadil-402324161
+[2]: http://www.simpleimageresizer.com/_uploads/photos/e6bda3d4/linkedin-sign_5_3.png
 
