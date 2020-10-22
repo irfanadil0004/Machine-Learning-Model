@@ -6,7 +6,7 @@ A Machine Learning Model Which Can Differentiate Between
 - A Scene 
 - A Book
 - An Objeect
-- Other 
+- And All The Other Things
 
 # A ScreenShot Of A Model
 The Image will procces and match the above categories a sample image, images will be processed under the machine and the image which will be perfectly match will show their its case in percentage with accuracy. 
@@ -38,5 +38,5 @@ As we can see the model is working fine!✌️
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/its_irfan___
-[2]: http://www.simpleimageresizer.com/_uploads/photos/e6bda3d4/linkedin-sign_5_3.png
+[2]: http://www,linkedin.in/in/itsirfan
 
