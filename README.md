@@ -18,6 +18,7 @@ A simple connection shown between all categories and machine this connection is 
 
 ![The Connection ](https://i.ibb.co/hKVNLW3/Screenshot-346.png)
 
+
 # Live Demo Of The Model
 The Live demo on a human potrait to identify if the ML is working fine-
 
@@ -27,7 +28,7 @@ As we can see the model is working fine!✌️
 
 
 <!-- Actual text -->
-<b> You can find me on [![Twitter][1.2]][1] or [![LinkedIn][2.2]][2]. 
+<b> You can find me on [![Twitter][1.2]][1] or [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
